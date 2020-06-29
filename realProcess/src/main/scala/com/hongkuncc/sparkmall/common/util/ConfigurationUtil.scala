@@ -1,4 +1,4 @@
-package com.hongkuncc
+package com.hongkuncc.sparkmall.common.util
 
 import org.apache.commons.configuration2.builder.FileBasedConfigurationBuilder
 import org.apache.commons.configuration2.builder.fluent.Parameters
