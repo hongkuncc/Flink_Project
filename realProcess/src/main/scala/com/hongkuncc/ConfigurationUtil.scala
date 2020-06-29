@@ -1,10 +1,8 @@
-package com.atguigu.sparkmall.common.util
+package com.hongkuncc
 
-
-
-import org.apache.commons.configuration2.{FileBasedConfiguration, PropertiesConfiguration}
 import org.apache.commons.configuration2.builder.FileBasedConfigurationBuilder
 import org.apache.commons.configuration2.builder.fluent.Parameters
+import org.apache.commons.configuration2.{FileBasedConfiguration, PropertiesConfiguration}
 
 import scala.collection.mutable
 
