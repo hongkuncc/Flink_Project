@@ -196,7 +196,7 @@ object MockOffline {
       .master("local[1]")
       .appName("MockOffline")
       .enableHiveSupport()
-      .config("spark.sql.warehouse.dir", "hdfs://hadoop201:9000/user/hive/warehouse")
+      .config("spark.sql.warehouse.dir", "hdfs://hduser102:9000/user/hive/warehouse")
       .getOrCreate()
     import spark.implicits._
     val sc = spark.sparkContext
