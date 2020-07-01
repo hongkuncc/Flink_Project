@@ -1,5 +1,6 @@
 package com.hongkuncc.sparkmall.common.bean
 
+
 /**
   * 用户表
   *
